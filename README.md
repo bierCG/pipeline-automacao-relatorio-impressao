@@ -108,7 +108,7 @@ automacao_desktop_pyautogui/
 
 ### Pré-requisitos
 
-* Python 3.11+
+* Python 3.11.2
 * Sistema operacional Windows
 * Aplicação desktop alvo instalada
 
@@ -135,7 +135,7 @@ python main.py
 
 Este projeto foi desenvolvido com foco em **automação corporativa**, simulando cenários reais de produção, onde sistemas web e aplicações desktop coexistem.
 
-Ele demonstra competências essenciais para um **Desenvolvedor Backend Python Júnior com foco em Automação/RPA**, incluindo:
+Demonstra
 
 * Leitura e transformação de dados
 * Integração entre sistemas
@@ -145,17 +145,8 @@ Ele demonstra competências essenciais para um **Desenvolvedor Backend Python J�
 
 ---
 
-## Próximos Passos (Evolução Natural)
-
-* Substituir PyAutoGUI por API ou integração nativa (quando disponível)
-* Criar camada de testes automatizados
-* Containerização do pipeline
-* Orquestração via scheduler (Airflow, cron, etc.)
-
----
-
 ## Autor
 
 Gabriel Schlumberger
 
-Desenvolvedor Python | Automação | Backend
+Desenvolvedor Python | Backend
