@@ -1,0 +1,2 @@
+class ErroAutomacao(Exception):
+    pass

@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Ambiente
+.env
+
+# Logs
+*.log
+logs/
+
+# Screenshots / arquivos gerados
+assets/
+assets/screenshot_errors/
+
+# Python
+__pycache__/
+*.pyc
